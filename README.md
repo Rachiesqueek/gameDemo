@@ -5,4 +5,4 @@ You can the find the game here:
 https://rachiesqueek.itch.io/bad-rats 
 
 # Programs Used:
-Godot (Gdscript)
+- Godot (Gdscript)
